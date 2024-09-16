@@ -1,0 +1,17 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.sequence-outer-container {
+  position: relative;
+  width: 100%;
+}
+.scroll-content {
+  height: auto; /* Or a specific value */
+  overflow: hidden;
+}
+
